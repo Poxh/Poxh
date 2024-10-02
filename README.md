@@ -9,7 +9,8 @@ I'm currently working on an exciting game called **Survive The Backrooms**. It's
 
 [![Survive The Backrooms](https://cdn.cloudflare.steamstatic.com/steam/apps/2327220/header.jpg)](https://store.steampowered.com/app/2327220/Survive_The_Backrooms/?beta=0)
 
-You can check out more details and updates on [Steam](https://store.steampowered.com/app/2327220/Survive_The_Backrooms/?beta=0).
+You can check out more details and updates on Steam.
+[![Check Out](https://img.shields.io/badge/Check%20Out-008000?style=for-the-badge&logo=link&logoColor=white)](https://store.steampowered.com/app/2327220/Survive_The_Backrooms/?beta=0)
 
 ## 🛠️ My Tech Stack
 
