@@ -2,6 +2,17 @@
 **`Passionate full-stack developer`**
 
 I'm Michael, a full-stack developer with a passion for building dynamic applications and developing engaging games. I enjoy working across the entire tech stack and am always eager to learn new technologies. From creating seamless user experiences to bringing game ideas to life, I love turning concepts into reality. Below is a quick overview of the technologies I use.
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://steamcommunity.com/id/your-steam-id" target="_blank">
+    <img src="https://img.shields.io/badge/-Steam-000000?style=flat&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+</p>
 
 ## 🛠️ My Tech Stack
 
