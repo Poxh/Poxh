@@ -20,8 +20,8 @@ I'm Michael, a full-stack developer with a passion for building dynamic applicat
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"/>
+  <img src="https://img.shields.io/badge/React-005A9C?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/React%20Native-005A9C?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
 </div>
 
