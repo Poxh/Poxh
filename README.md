@@ -45,13 +45,13 @@ I'm currently working on an exciting game called **Survive The Backrooms**. It's
 ## 🌐 Connect with Me
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px; background-color: #f6f8fa;">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/michael-ernst-b6395b225" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank" style="margin: 0 20px;">
+  <a href="https://discord.com/users/devpoxh" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://steamcommunity.com/id/your-steam-id" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+  <a href="mailto:contact.mernst@gmail.com" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
