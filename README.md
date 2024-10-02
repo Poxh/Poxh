@@ -1,6 +1,6 @@
 # 👻 Poxh 
 
-##`Passionate developer`##
+**`Passionate developer`**
 
 I'm Michael, a passionate developer with expertise in developing applications and games. I love to explore new technologies and continuously improve my skills. Below is a snapshot of my technical skills and the tools I frequently work with.
 
