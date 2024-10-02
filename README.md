@@ -1,8 +1,6 @@
 # 👻 Poxh 
-
-**`Passionate developer`**
-
-I'm Michael, a passionate developer with expertise in developing applications and games. I love to explore new technologies and continuously improve my skills. Below is a snapshot of my technical skills and the tools I frequently work with.
+**`Passionate full-stack developer`**
+I'm Michael, a full-stack developer with a passion for building dynamic applications and developing engaging games. I enjoy working across the entire tech stack and am always eager to learn new technologies. From creating seamless user experiences to bringing game ideas to life, I love turning concepts into reality. Below is a quick overview of the technologies I use.
 
 ## 🛠️ My Tech Stack
 
